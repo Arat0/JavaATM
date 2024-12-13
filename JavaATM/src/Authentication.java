@@ -1,3 +1,6 @@
+//: Handles user login by verifying the account number and PIN against the database. Returns a User object upon successful authentication.
+// Arat Palacios-Suarez 12/12/24
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

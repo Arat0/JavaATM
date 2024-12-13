@@ -1,3 +1,6 @@
+// Represents a bank account holder. It stores user details such as account number, balances, and provides methods for account operations like withdrawals, deposits, and transfers.
+//Arat Palacios-Suarez 12/7/24
+
 import java.util.ArrayList;
 import java.util.List;
 

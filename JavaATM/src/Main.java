@@ -1,3 +1,6 @@
+//Serves as the entry point for the application. It initializes the database and authentication system, displays the main menu, and routes user actions 
+//Arat Palacios-Suarez 
+//12/05/24
 import java.util.Scanner;
 
 public class Main {

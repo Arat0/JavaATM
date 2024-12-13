@@ -1,3 +1,6 @@
+//Manages the SQLite database connection and handles database initialization. It provides methods to fetch and update user data in the users table.
+// Arat palacios-Suarez 12/11/24
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
